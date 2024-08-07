@@ -1,7 +1,5 @@
 # Real-Time Sign Language Interpreter
 
-![Project Banner](https://your-image-link.com/banner.jpg)
-
 ## Overview
 
 This project is a real-time sign language interpreter that uses a Convolutional Neural Network (CNN) trained on the American Sign Language dataset from Kaggle. The model can be downloaded from this repository and is designed to run on a self-configured Raspberry Pi, forming the basis for a portable and efficient real-time sign language interpreter.
